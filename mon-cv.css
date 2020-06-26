@@ -1,0 +1,59 @@
+header {
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(190, 190, 190);
+}
+img {
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-right: 20px;
+    width: 100px;
+    height: 100px;
+}
+
+#navigation {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    word-spacing: 100px; 
+    background-color: rgb(236, 204, 206);
+}
+
+#profil {
+    width: 70%;
+}
+
+.alignement {
+    display: flex;
+    flex-direction: row;
+}
+
+.infos {
+    width:50%;
+    margin: 2%;
+}
+.profil {
+    border:1px black solid;
+    display:block;
+    background: whitesmoke;
+}
+
+.intérêts {
+    display: flex;
+    flex-direction: row;
+    margin:2%;
+}
+
+.contact {
+    display: flex;
+    flex-direction: column;
+}
+
+
+body {
+    margin: 0px;
+    background-color: rgb(228, 228, 228);}
+
+footer {
+    background-color: rgb(190, 190, 190);
+}
